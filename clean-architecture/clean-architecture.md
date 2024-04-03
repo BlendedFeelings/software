@@ -1,5 +1,5 @@
 ---
-b: https://blendedfeelings.com/software/clean-architecture/index.md
+b: https://blendedfeelings.com/software/clean-architecture/clean-architecture.md
 ---
 
 # Clean architecture 

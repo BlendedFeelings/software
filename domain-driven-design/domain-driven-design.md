@@ -1,5 +1,5 @@
 ---
-b: https://blendedfeelings.com/software/domain-driven-design/index.md
+b: https://blendedfeelings.com/software/domain-driven-design/domain-driven-design.md
 ---
 
 # Domain-Driven Design (DDD) 

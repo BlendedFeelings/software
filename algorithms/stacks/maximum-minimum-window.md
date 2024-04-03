@@ -1,5 +1,5 @@
 ---
-b: https://blendedfeelings.com/software/algorithms/stacks/calculate-max-of-min.md
+b: https://blendedfeelings.com/software/algorithms/stacks/maximum-minimum-window.md
 ---
 
 # Max Of Min

@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/concurrent-programming/reentrant-lock.md
+---
+
 # Reentrant lock 
 also known as a recursive lock, is a synchronization primitive that can be acquired multiple times by the same thread without causing a deadlock. This kind of lock keeps track of the number of times it has been locked, and requires the same number of unlocks to be completely released.
 

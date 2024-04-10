@@ -1,5 +1,5 @@
 ---
-b: https://blendedfeelings.com/software/design/quorum.md
+b: https://blendedfeelings.com/software/data-store/quorum.md
 ---
 
 # Quorum In distributed systems

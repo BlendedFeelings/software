@@ -1,5 +1,5 @@
 ---
-b: https://blendedfeelings.com/software/design/zab.md
+b: https://blendedfeelings.com/software/data-store/zab.md
 ---
 
 # ZooKeeper Zab (ZooKeeper Atomic Broadcast) algorithm 

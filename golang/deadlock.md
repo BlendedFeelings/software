@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/golang/deadlock.md
+---
+
 # Deadlock in Go
 occurs when a set of goroutines are waiting for each other to release resources, but none of them can proceed because the resources they need are held by another waiting goroutine. This results in a situation where the program cannot continue to execute because there are no goroutines that can make progress.
 

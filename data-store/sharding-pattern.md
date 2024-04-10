@@ -1,5 +1,5 @@
 ---
-b: https://blendedfeelings.com/software/design/sharding-pattern.md
+b: https://blendedfeelings.com/software/data-store/sharding-pattern.md
 ---
 
 # Sharding pattern 

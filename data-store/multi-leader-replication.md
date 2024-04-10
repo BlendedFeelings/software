@@ -1,5 +1,5 @@
 ---
-b: https://blendedfeelings.com/software/design/multi-leader-replication.md
+b: https://blendedfeelings.com/software/data-store/multi-leader-replication.md
 ---
 
 # Multi-leader replication 

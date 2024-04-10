@@ -1,4 +1,9 @@
-Causal consistency is a consistency model for distributed systems that ensures that causally related operations are seen by all processes in the same order. In other words, if one operation causally affects another, any process in the system that sees the second operation must also see the first operation, and in the correct order.
+---
+b: https://blendedfeelings.com/software/data-store/causal-consistency.md
+---
+
+# Causal consistency 
+is a consistency model for distributed systems that ensures that causally related operations are seen by all processes in the same order. In other words, if one operation causally affects another, any process in the system that sees the second operation must also see the first operation, and in the correct order.
 
 Causal consistency is weaker than strong consistency models like linearizability but stronger than eventual consistency. It is designed to maintain the intuitive causal relationships between operations that users expect from a system, without incurring the performance overhead of maintaining strict consistency across all operations.
 

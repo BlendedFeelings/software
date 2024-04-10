@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/data-store/eventual-consistency.md
+---
+
 # Eventual consistency 
 is a consistency model used in distributed computing to provide a guarantee that, given enough time without new updates, all replicas of a data item will converge to the same value. This model is often employed in systems where high availability and scalability are prioritized over immediate data consistency.
 

@@ -1,4 +1,8 @@
-The Common Reuse Principle (CRP) 
+---
+b: https://blendedfeelings.com/software/clean-architecture/common-reuse-principle-crp.md
+---
+
+# Common Reuse Principle (CRP) 
 suggests that classes that are grouped into a package or module should have a high degree of cohesion. They should be related by function and should be used together. If a package contains classes that are not tightly related, it violates CRP because clients that need to use one class might be forced to depend on others that they do not use, which can lead to unnecessary coupling.
 
 > "The classes in a package should be reused together. If you reuse one of the classes in a package, you reuse them all."

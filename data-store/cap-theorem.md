@@ -1,5 +1,5 @@
 ---
-b: https://blendedfeelings.com/software/design/cap-theorem.md
+b: https://blendedfeelings.com/software/data-store/cap-theorem.md
 ---
 
 # CAP theorem 

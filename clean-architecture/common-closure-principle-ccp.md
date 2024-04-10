@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/clean-architecture/common-closure-principle-ccp.md
+---
+
 # Common Closure Principle (CCP) 
 states that classes that change for the same reasons and at the same times should be grouped together in the same package (or module). This means that if one class in a package changes, it is likely that other classes in the same package will also need to change. Grouping these classes together helps to minimize the maintenance effort, as changes to one part of the codebase are less likely to impact other parts.
 

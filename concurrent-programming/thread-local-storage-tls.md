@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/concurrent-programming/thread-local-storage-tls.md
+---
+
 # Thread-Local Storage (TLS) 
 is a computer programming method that provides "static" or "global" storage that is unique to each thread in a multi-threaded process. Each thread in a process has its own instance of thread-local data. This is useful for situations where you do not want data to be shared between threads to avoid issues such as race conditions or the need for synchronization mechanisms like mutexes.
 

@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/concurrent-programming/race-condition.md
+---
+
 # Race condition 
 in concurrent programming occurs when two or more threads or processes can access shared data and they try to change it at the same time. Because the thread scheduling algorithm can swap between threads at any time, you don't know the order in which the threads will attempt to access the shared data. Therefore, the result of the change in data can vary depending on the thread scheduling and timing, leading to unpredictable results.
 

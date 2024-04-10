@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/clean-architecture/reuse-release-equivalence-principle-rrr.md
+---
+
 # Reuse/Release Equivalence Principle (RRP)
 states that the granule of reuse is the granule of release. In other words, code should be grouped into reusable components such that if you want to reuse any part of the code, you should be able to do so by depending on a released version of the component. This implies that the component is versioned and has a clear, defined release process.
 

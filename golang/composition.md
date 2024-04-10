@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/golang/composition.md
+---
+
 # Composition in Go 
 is a way to achieve object-oriented-like behavior without using inheritance. In Go, composition is preferred over inheritance, and it's done by embedding one struct into another. This allows the containing struct to access the methods and properties of the embedded struct directly.
 

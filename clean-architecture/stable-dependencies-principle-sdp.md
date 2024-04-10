@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/clean-architecture/stable-dependencies-principle-sdp.md
+---
+
 # Stable Dependencies Principle (SDP) 
 means that in a well-designed system, a given software component should depend only on components that are more stable than itself. Stability, in this context, refers to the likelihood of a component to undergo change. A stable component is one that is less likely to change, while an unstable component is more likely to change.
 

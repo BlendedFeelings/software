@@ -1,5 +1,5 @@
 ---
-b: https://blendedfeelings.com/software/design/paxos.md
+b: https://blendedfeelings.com/software/data-store/paxos.md
 ---
 
 # Paxos 

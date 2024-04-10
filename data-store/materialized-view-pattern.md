@@ -1,5 +1,5 @@
 ---
-b: https://blendedfeelings.com/software/design/materialized-view-pattern.md
+b: https://blendedfeelings.com/software/data-store/materialized-view-pattern.md
 ---
 
 # Materialized View pattern 

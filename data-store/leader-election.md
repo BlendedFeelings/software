@@ -1,5 +1,5 @@
 ---
-b: https://blendedfeelings.com/software/design/leader-election.md
+b: https://blendedfeelings.com/software/data-store/leader-election.md
 ---
 
 # Leader election 

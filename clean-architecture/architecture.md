@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/clean-architecture/architecture.md
+---
+
 # Architecture 
 of a software system is the shape given it by those who build it. The purpose of that shape is to facilitate development, deployment, operation and maintenance. The  strategy is to leave as many options as possible, for as long as possible. Policies (business logic) should carefully separate from the details (database access, ui),so policy has no knowledge of the details. The business rules should not depend on the technical details of implementation.
 

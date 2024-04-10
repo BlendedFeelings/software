@@ -1,5 +1,5 @@
 ---
-b: https://blendedfeelings.com/software/design/consensus.md
+b: https://blendedfeelings.com/software/data-store/consensus.md
 ---
 
 # Consensus in distributed systems 

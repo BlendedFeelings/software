@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/golang/context.md
+---
+
 # Context 
 is a concept that carries deadlines, cancellation signals, and other request-scoped values across API boundaries and between processes. In the Go programming language, the `context` package is used to define the `Context` type, which is designed to enable cancellation, timeouts, and passing request-scoped values through a call chain.
 

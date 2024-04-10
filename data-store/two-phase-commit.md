@@ -1,5 +1,5 @@
 ---
-b: https://blendedfeelings.com/software/design/two-phase-commit.md
+b: https://blendedfeelings.com/software/data-store/two-phase-commit.md
 ---
 
 # Two-phase commit (2PC) protocol 

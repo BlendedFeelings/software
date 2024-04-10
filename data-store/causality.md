@@ -1,5 +1,5 @@
 ---
-b: https://blendedfeelings.com/software/design/causality.md
+b: https://blendedfeelings.com/software/data-store/causality.md
 ---
 
 # Causality

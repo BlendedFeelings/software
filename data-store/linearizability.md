@@ -1,5 +1,5 @@
 ---
-b: https://blendedfeelings.com/software/design/linearizability.md
+b: https://blendedfeelings.com/software/data-store/linearizability.md
 ---
 
 # Linearizability 

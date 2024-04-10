@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/concurrent-programming/initialization-on-demand-holder-idiom.md
+---
+
 # Initialization-on-Demand Holder idiom 
 is a design pattern used in Java to lazily initialize an instance of a class in a thread-safe way without the need for synchronization on the instance-level. It takes advantage of the Java language's guarantee that a class is only loaded and initialized when it is used for the first time.
 

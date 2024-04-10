@@ -1,5 +1,5 @@
 ---
-b: https://blendedfeelings.com/software/design/replication.md
+b: https://blendedfeelings.com/software/data-store/replication.md
 ---
 
 # Replication in distributed systems 

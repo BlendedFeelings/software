@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/data-store/acid.md
+---
+
 # ACID 
 is an acronym that stands for Atomicity, Consistency, Isolation, and Durability. It is a set of properties that guarantee that database transactions are processed reliably. These properties are key concepts in the field of database transaction management and are crucial for ensuring the integrity of data within a database. Here is a brief overview of each of these properties:
 

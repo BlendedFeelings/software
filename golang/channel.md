@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/golang/channel.md
+---
+
 # Channel 
 is a powerful concurrency primitive that allows goroutines to communicate with each other and synchronize their execution. Channels can be used to send and receive values between goroutines, which helps to avoid race conditions and makes concurrent programming more manageable.
 

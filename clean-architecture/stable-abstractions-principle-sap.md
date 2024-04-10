@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/clean-architecture/stable-abstractions-principle-sap.md
+---
+
 # Stable Abstractions Principle (SAP) 
 is designed to manage the dependencies between different parts of a system, ensuring that stable components (those that are unlikely to change) are also highly abstract. This makes them more flexible and less likely to require changes as the details of the system's implementation evolve.
 

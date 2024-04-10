@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/data-store/strict-consistency.md
+---
+
 # Strict consistency 
 refers to the guarantee that any read operation on a database will return the most recent write for a given piece of data. It's a stringent form of data consistency which ensures that once a data item has been written, any subsequent access to that item will always return the latest value.
 

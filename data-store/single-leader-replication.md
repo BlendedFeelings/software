@@ -1,5 +1,5 @@
 ---
-b: https://blendedfeelings.com/software/design/single-leader-replication.md
+b: https://blendedfeelings.com/software/data-store/single-leader-replication.md
 ---
 
 # Single leader replication 

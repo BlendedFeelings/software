@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/clean-architecture/acyclic-dependencies-principle-adp.md
+---
+
 # Acyclic Dependencies Principle (ADP) 
 is concerned with the structure and dependencies between different components or modules within a software system. The principle states that the dependency graph of packages or components should have no cycles. This means that it should not be possible to start at one module and, by following the dependencies between modules, eventually loop back to the starting module.
 

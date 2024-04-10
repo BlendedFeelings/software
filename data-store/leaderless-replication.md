@@ -1,5 +1,5 @@
 ---
-b: https://blendedfeelings.com/software/design/leaderless-replication.md
+b: https://blendedfeelings.com/software/data-store/leaderless-replication.md
 ---
 
 # Leaderless replication 

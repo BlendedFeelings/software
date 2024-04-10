@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/data-store/read-your-write.md
+---
+
 # Read your write
 is a consistency model that ensures that once a write operation has been performed by a particular process or user, any subsequent read operations by that same process or user will reflect that write. In other words, a system with "read your write" consistency guarantees that a user will always see their own changes.
 

@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/clean-architecture/architect.md
+---
+
 # Architect Uncle 
 is someone that continues to be a programmer. They may not write as much code but they continue to engage in programming tasks. They do this because they cannot do their jobs if they are not experiencing the problems that they are creating for the rest of the programmer.
 

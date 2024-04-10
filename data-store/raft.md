@@ -1,5 +1,5 @@
 ---
-b: https://blendedfeelings.com/software/design/raft.md
+b: https://blendedfeelings.com/software/data-store/raft.md
 ---
 
 # Raft consensus algorithm 

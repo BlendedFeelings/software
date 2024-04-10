@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/functional-programming/closure.md
+---
+
 # Closure 
 is a function that captures the lexical scope in which it was defined. This means that the function can remember and access variables from the context in which it was created, even after that context has finished executing. Closures allow for data encapsulation, which can be useful for creating private state and for functional techniques like currying and function factories.
 

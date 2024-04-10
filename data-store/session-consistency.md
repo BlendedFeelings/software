@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/data-store/session-consistency.md
+---
+
 # Session consistency 
 is a consistency model that ensures a system maintains a consistent state within the context of a single user's session. It is a guarantee that a user will receive a consistent view of the data for the duration of their session, even in a distributed system where data may be replicated across multiple nodes.
 

@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/data-store/vector-clock.md
+---
+
 # Vector clocks 
 are a logical clock mechanism used in distributed systems to capture the partial ordering of events without the need for synchronization of physical clocks. They are used to track causality between different processes in a distributed system. The key idea is to maintain a vector (array) of logical timestamps, one for each process in the system.
 

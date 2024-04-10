@@ -1,5 +1,5 @@
 ---
-b: https://blendedfeelings.com/software/design/multi-paxos.md
+b: https://blendedfeelings.com/software/data-store/multi-paxos.md
 ---
 
 # Multi-Paxos 

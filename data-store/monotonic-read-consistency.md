@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/data-store/monotonic-read-consistency.md
+---
+
 # Monotonic read consistency 
 is a consistency model that ensures that if a read operation has seen a particular version of a data item, any subsequent reads will see that version or a more recent one. It guarantees that once a process reads data, it will never see an older state of that data in the future. This consistency model is weaker than strict or linearizable consistency but stronger than eventual consistency.
 

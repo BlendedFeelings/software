@@ -17,6 +17,6 @@ Here's how the GIL works:
 
 5. **Alternative Implementations**: Some implementations of Python, such as Jython (Python for the Java Virtual Machine) and IronPython (Python for the .NET framework), do not have a GIL. Each thread can execute in parallel without the need for a GIL because these environments have their own garbage collectors that are designed to be thread-safe.
 
-6. **Efforts to Remove the GIL**: There have been various efforts to remove the GIL from CPython or to replace it with a more granular locking mechanism. However, these efforts have often led to reduced single-threaded performance or increased complexity. As of my knowledge cutoff date in April 2023, CPython still has the GIL.
+6. **Efforts to Remove the GIL**: There have been various efforts to remove the GIL from CPython or to replace it with a more granular locking mechanism. However, these efforts have often led to reduced single-threaded performance or increased complexity.
 
 It's important to note that the GIL is specific to the CPython implementation of Python. Other implementations may not have a GIL and may handle concurrency differently.

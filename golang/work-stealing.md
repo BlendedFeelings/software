@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/golang/work-stealing.md
+---
+
 # Work-stealing algorithm in Go's scheduler
 is used to efficiently distribute goroutines across multiple threads (referred to as M's in Go's runtime). The goal of work-stealing is to keep all threads busy by redistributing work from overloaded threads to those that are idle or less busy. Here's a high-level overview of how work stealing works in the Go scheduler:
 

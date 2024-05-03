@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/golang/empty-interface.md
+---
+
 # Empty interface in Go
 is specified as `interface{}`. It is an interface that has zero methods and is satisfied by any type, because any type implements at least zero methods. The empty interface is used to handle values of unknown type since it can hold values of any type, much like `void*` in C or `Object` in Java.
 

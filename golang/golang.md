@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/golang/golang.md
+---
+
 # Go
 often referred to as Golang due to its domain name (golang.org), is an open-source programming language created by Google. It was designed by Robert Griesemer, Rob Pike, and Ken Thompson and officially released in 2009. Go is statically typed, compiled, and syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency.
 

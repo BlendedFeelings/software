@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/golang/pipeline.md
+---
+
 # Pipeline in Go
 is a series of stages connected by channels, where each stage is a group of goroutines running the same function. In each stage, goroutines:
 

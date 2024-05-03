@@ -1,4 +1,8 @@
-# `make` and `new` functions 
+---
+b: https://blendedfeelings.com/software/golang/make-new.md
+---
+
+# Make and New functions 
 are built-in functions that are used to allocate and initialize memory for built-in data types. The `new` function allocates zeroed memory for any type and returns a pointer to it, while `make` is used to allocate and initialize slices, maps, and channels, returning an initialized value of the type, not a pointer.
 
 ### `new` Function

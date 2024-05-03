@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/golang/runtime-scheduler.md
+---
+
 # Runtime scheduler 
 is a sophisticated component of the Go runtime that manages the execution of goroutines, which are lightweight threads managed by the Go runtime rather than the operating system. The scheduler's role is to distribute goroutines across available CPU cores for execution, enabling efficient concurrency in Go programs.
 

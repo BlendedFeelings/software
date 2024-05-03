@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/golang/goroutine-leak.md
+---
+
 # Goroutine leak in Go 
 refers to a situation where goroutines are spawned but never terminated, causing them to remain in memory indefinitely. This can lead to increased memory usage and eventually exhaust the system's resources, leading to performance degradation or crashes.
 

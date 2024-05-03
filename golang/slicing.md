@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/golang/slicing.md
+---
+
 # Slicing in Go 
 is a common operation that allows you to create a new slice from an existing array, slice, or string. Slicing is done by specifying a half-open range with two indices separated by a colon. The first index indicates the start of the slice, and the second index indicates the end of the slice (non-inclusive). If you omit the start index, it defaults to 0; if you omit the end index, it defaults to the length of the array, slice, or string.
 

@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/golang/worker-pools.md
+---
+
 # Worker pools in Go (Golang) 
 are a pattern used to perform a large number of tasks concurrently by distributing them across multiple worker goroutines. This pattern is useful for controlling the number of goroutines that are active at any one time and for managing concurrency.
 

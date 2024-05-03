@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/golang/interface.md
+---
+
 # Interface in GO 
 is a type that specifies a set of method signatures (behavior) but does not implement them. Instead, it is left to other types (concrete types) to implement these methods. Interfaces are used to define the behavior that types must fulfill. Interfaces are implicit in Go, meaning that a type implements an interface simply by implementing its methods; there is no need to explicitly declare that it does so.
 

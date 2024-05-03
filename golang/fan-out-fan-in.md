@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/golang/fan-out-fan-in.md
+---
+
 # Fan-out and Fan-in 
 are concurrency patterns used in Go (Golang) to manage multiple goroutines and channel operations. These patterns help to distribute work among multiple goroutines (fan-out) and then collect the results (fan-in).
 

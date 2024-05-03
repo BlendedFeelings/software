@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/golang/goroutine-synchronization.md
+---
+
 # Synchronization between goroutines 
 can be achieved using various synchronization primitives provided by the `sync` package. Here are some of the most common ways to synchronize goroutines:
 

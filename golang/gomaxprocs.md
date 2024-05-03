@@ -1,4 +1,8 @@
-# `GOMAXPROCS` in Go
+---
+b: https://blendedfeelings.com/software/golang/gomaxprocs.md
+---
+
+# GOMAXPROCS in Go
 is an environment variable that determines the maximum number of operating system threads that can execute user-level Go code simultaneously. It effectively sets the maximum number of CPU cores that the Go runtime will use for parallel execution of Go goroutines.
 
 The default value of `GOMAXPROCS` is the number of CPU cores available on the machine. However, you can change this value to control the level of parallelism for Go programs. This can be useful for optimizing performance, particularly in environments with many CPU cores or when you want to limit the resource usage of a Go application.

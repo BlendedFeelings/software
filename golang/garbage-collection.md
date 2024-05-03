@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/golang/garbage-collection.md
+---
+
 # Go's garbage collector 
 uses a concurrent mark-and-sweep algorithm to automatically manage memory, freeing up space occupied by objects that are no longer needed. It's designed to minimize program disruption, running in the background and adjusting its activity based on the program's memory allocation patterns.
 

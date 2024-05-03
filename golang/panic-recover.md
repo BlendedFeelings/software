@@ -1,4 +1,8 @@
-# `panic` and `recover` 
+---
+b: https://blendedfeelings.com/software/golang/panic-recover.md
+---
+
+# Panic and Recover 
 are two built-in functions that are used to handle errors and control the flow of a program during runtime. They are part of Go's error handling strategy.
 
 ### Panic

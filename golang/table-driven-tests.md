@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/golang/table-driven-tests.md
+---
+
 # Table-driven tests in Go 
 are a common pattern for writing tests where you define a series of test cases in a table (usually a slice of structs) and then iterate over them in a loop. Each entry in the table represents a test case with its own set of inputs and expected outputs.
 

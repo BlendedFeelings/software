@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/golang/reflection.md
+---
+
 # Reflection in Go 
 is a powerful feature that allows you to inspect and manipulate objects at runtime. It is provided by the `reflect` package, which enables you to work with types and values in a dynamic manner. Reflection can be used for a variety of tasks, such as type checking, iterating through the fields of structs, calling functions dynamically, and much more.
 

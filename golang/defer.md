@@ -1,4 +1,8 @@
-# `defer` in Go 
+---
+b: https://blendedfeelings.com/software/golang/defer.md
+---
+
+# Defer in Go 
 delays the execution of a function until a later time or event, like you might find in some asynchronous programming models. However, Go does have a `defer` statement that is used to ensure that a function call is performed later in the program's execution, usually for purposes of cleanup. `defer` is commonly used to ensure that resources are released in a timely manner, such as closing files or network connections.
 
 When a `defer` statement is encountered, the function call specified is not executed immediately. Instead, it is placed onto a stack and executed when the surrounding function returns, either because it reached the end of its body, or because it encountered a return statement, or an error occurred. The deferred calls are executed in last-in-first-out order.

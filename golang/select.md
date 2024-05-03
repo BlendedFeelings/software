@@ -1,4 +1,8 @@
-# `select` statement in Go 
+---
+b: https://blendedfeelings.com/software/golang/select.md
+---
+
+# Select statement in Go 
 lets a goroutine wait on multiple communication operations. It is similar to a switch statement but for channels. The `select` statement blocks until one of its cases can run, then it executes that case. If multiple cases are ready, it picks one at random.
 
 Here's an example of how to use the `select` statement in Go:

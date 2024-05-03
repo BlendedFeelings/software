@@ -1,3 +1,7 @@
+---
+b: https://blendedfeelings.com/software/golang/goroutine.md
+---
+
 # Goroutine 
 is a lightweight thread managed by the Go runtime. Goroutines are used to perform work concurrently within a program. Unlike threads in many other programming languages, goroutines are extremely cheap to create in terms of memory and CPU overhead, which allows you to start thousands or even millions of them in the same program without running into resource constraints.
 
